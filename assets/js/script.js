@@ -45,7 +45,7 @@ class Propietario {
     get direccion(){
         return this._direccion;
     }
-    set telefono(nueva_direccion){
+    set direccion(nueva_direccion){
         this._direccion = nueva_direccion;
     }
     get telefono(){
